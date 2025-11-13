@@ -5,7 +5,7 @@
 
   export default defineConfig({
     plugins: [react()],
-    base : '/POKEDEX-APP/',
+    base : '/Pokedex-App/',
     resolve: {
       extensions: ['.js', '.jsx', '.ts', '.tsx', '.json'],
       alias: {
